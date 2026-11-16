@@ -3,9 +3,9 @@
 > **Note**: GitHub Actions runs `pmlint` (BibTeX/PDF intake) on initial submission pull requests. Wait for that check to be green, or run `pmlint --check` locally first. The separate `pmlint-posts` check only runs if `_posts/` files change and does not apply to this initial submission.
 
 ### Conference Information
-- **Conference Name**: NeurIPS 2025 Competition Track (Neural Information Processing Systems, 39th)
-- **Volume Number**: 276
-- **Editors**: Tao Qin, Kun Zhang, Jes Frellsen
+- **Conference Name**: 
+- **Volume Number**: 
+- **Editors**: 
 
 ### Submission Checklist
 Please confirm that you have completed the following requirements by checking all the boxes:
